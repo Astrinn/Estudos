@@ -1,0 +1,16 @@
+C:\Users\Astrinn\Documents\Estudos\Programação\C#\repository\estudo\bin\Debug\estudo.exe.config
+C:\Users\Astrinn\Documents\Estudos\Programação\C#\repository\estudo\bin\Debug\estudo.exe
+C:\Users\Astrinn\Documents\Estudos\Programação\C#\repository\estudo\bin\Debug\estudo.pdb
+C:\Users\Astrinn\Documents\Estudos\Programação\C#\repository\estudo\obj\Debug\estudo.csproj.AssemblyReference.cache
+C:\Users\Astrinn\Documents\Estudos\Programação\C#\repository\estudo\obj\Debug\estudo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Astrinn\Documents\Estudos\Programação\C#\repository\estudo\obj\Debug\estudo.csproj.CoreCompileInputs.cache
+C:\Users\Astrinn\Documents\Estudos\Programação\C#\repository\estudo\obj\Debug\estudo.exe
+C:\Users\Astrinn\Documents\Estudos\Programação\C#\repository\estudo\obj\Debug\estudo.pdb
+C:\Users\Astrinn\Documents\Estudos\Programação\C#\repository\Codes\estudo\obj\Debug\estudo.csproj.AssemblyReference.cache
+C:\Users\Astrinn\Documents\Estudos\Programação\C#\repository\Codes\estudo\obj\Debug\estudo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Astrinn\Documents\Estudos\Programação\C#\repository\Codes\estudo\obj\Debug\estudo.csproj.CoreCompileInputs.cache
+C:\Users\Astrinn\Documents\Estudos\Programação\C#\repository\Codes\estudo\obj\Debug\estudo.exe
+C:\Users\Astrinn\Documents\Estudos\Programação\C#\repository\Codes\estudo\obj\Debug\estudo.pdb
+C:\Users\Astrinn\Documents\Estudos\Programação\C#\repository\Codes\estudo\bin\Debug\estudo.exe.config
+C:\Users\Astrinn\Documents\Estudos\Programação\C#\repository\Codes\estudo\bin\Debug\estudo.exe
+C:\Users\Astrinn\Documents\Estudos\Programação\C#\repository\Codes\estudo\bin\Debug\estudo.pdb
